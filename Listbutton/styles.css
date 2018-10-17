@@ -6,10 +6,41 @@ button {
     font-size: 16px;
 }
 
+footer{
+    background-color: cadetblue;
+    text-align: center;
+}
+
+header{
+    background-color: violet;
+    text-align: center;
+}
+
+header p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 110%;
+}
+
 h1.foo {
     text-align: center;
 }
 
 h1#new-point {
-    text-align: right;
+    text-align: center;
+}
+
+img#list-button-utah{
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+
+main {
+background-color: pink;
+}
+
+.byline {
+    font-style: italic;
+    font-size: 80%;
 }
