@@ -1,0 +1,33 @@
+header{
+    background-color: lightsteelblue;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+main{
+    background-color: aqua;
+    text-align: center;
+    font: 1em sans-serif;
+}
+
+footer{
+    background-color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
+
+.byline {
+    font-style: italic;
+    font-size: 80%;
+}
+    
+section{
+    background-color: blanchedalmond;
+    font-size: 16px;
+    text-align: center;
+}
+
+figure{
+    float: right;
+}
