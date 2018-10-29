@@ -31,3 +31,15 @@ section{
 figure{
     float: right;
 }
+
+img#theme-cali{
+    width: 800px;
+    height: 650px;
+    float: right;
+}
+
+main#theme-caliparagraph {
+        background-color: deepskyblue;
+        font-size: 150%;
+        float: left;
+}
