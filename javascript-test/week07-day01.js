@@ -26,6 +26,7 @@ function evenOrOdd(value) {
 
 evenOrOdd(4);
 evenOrdOdd(15);
+
 console.log('MODULUS TEST FOR EVEN;', (num % 2) === 0);
 
 var app = {

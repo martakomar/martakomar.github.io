@@ -43,3 +43,121 @@ main#theme-caliparagraph {
         font-size: 150%;
         float: left;
 }
+
+section#theme-califooter{
+       background-color: royalblue;
+       font-size: 200%;
+}
+
+footer#theend{
+    background-color: paleturquoise;
+    font-size: 300%;
+}
+
+header#hawaii{
+    background-color: aqua;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+main#theme-hawaiiparagraph{
+    background-color: teal;
+    text-align: left;
+    font: xx-large;
+    font-size: 180%;
+}
+
+section#hawaii-section{
+     background-color: seagreen;
+     font-size: 150%;
+}
+
+img#theme-hawaii{
+    width:800 px;
+    height:650px;
+    float: left;
+}
+
+img#theme-hawaii2{
+    widows: 500px;
+    height: 350px;
+}
+
+footer#theend2{
+    background-color: dodgerblue;
+    font-size: 300%;
+}
+
+aside{
+    border: 1p black;
+    border-radius: 8px;
+    font-size: 120%;
+    font-style: oblique;
+    float: right;
+    width: 33%;
+    padding: 5px;
+    margin-left: 8px;
+    margin-right: 8px;
+    background-color: beige;
+}
+
+header#washington{
+    background-color: darkblue;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+main#theme-washingtonparagraph{
+        background-color: gray;
+        text-align: left;
+        font: oblique;
+        font-size: 25px;
+}
+
+img#theme-washington{
+    width: 800px;
+    height: 650px;
+    float: left; 
+}
+
+section#washington-section{
+    background-color: slateblue;
+    font-size: 150%;
+    text-align: center;
+}
+
+img#theme-washington2{
+    width: 550px;
+    height: 380px;
+    float: right;
+}
+
+footer#theend3{
+    background-color: lightslategrey;
+    font-size: 350%;
+}
+
+nav#theend4 {
+    background-color: bisque;
+}
+
+header#aboutme {
+    background-color: coral;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+main#theme-aboutmeparagraph {
+    background-color: lavenderblush;
+    font-size: 150%;
+    float: left;
+}
+
+img#theme-me{
+    width: 550px;
+    height: 380px;
+    float: left;
+}
