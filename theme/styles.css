@@ -150,14 +150,28 @@ header#aboutme {
     font-weight: bold;
 }
 
-main#theme-aboutmeparagraph {
+main#theme-aboutparagraph {
     background-color: lavenderblush;
     font-size: 150%;
     float: left;
 }
 
-img#theme-me{
-    width: 550px;
-    height: 380px;
+img#theme-me2{
+    width: 700px;
+    height: 650px;
     float: left;
+}
+
+
+aside#aside2{
+    border: 24px blue;
+    border-radius: 8px;
+    font-size: 120%;
+    font-style: normal;
+    float: right;
+    width: 40%;
+    padding: 10px;
+    margin-left: 8px;
+    margin-right: 8px;
+    background-color: beige;
 }
