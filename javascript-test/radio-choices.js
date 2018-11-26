@@ -11,3 +11,9 @@ window.onload = () => {
         }
     });
 }
+
+function showChoice(value) {
+    console.log(value);
+    const userDisplay = document.getElementById('user-choice');
+    userDisplay.textContent = value;
+}
