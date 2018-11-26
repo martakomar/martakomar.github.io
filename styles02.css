@@ -1,3 +1,92 @@
-h1 {
-    color: green;
+aside{
+    border: 1p black;
+    border-radius: 8px;
+    font-size: 120%;
+    font-style: italic;
+    float: right;
+    width: 33%;
+    padding: 5px;
+    margin-left: 8px;
+    margin-right: 8px;
+    background-color: darkslategrey;
+}
+button.test-button{
+    padding:25px;
+    border: 15px yellowgreen solid;
+    border-radius: 35px;
+}
+
+button.test-button:hover {
+    background-color: bisque;
+}
+
+button.margin-button{
+    margin: 25px;
+}
+
+div#margin-div {
+    border: 1px black solid;
+    display: inline-block;
+}
+
+footer{
+    background-color: cadetblue;
+    text-align: center;
+}
+
+header{
+    background-color: violet;
+    text-align: center;
+}
+
+header p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 110%;
+}
+
+h1.foo {
+    text-align: center;
+}
+
+h1#new-point {
+    text-align: center;
+}
+
+img#list-button-utah{
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+
+main {
+background-color: pink;
+}
+
+.byline {
+    font-style: italic;
+    font-size: 80%;
+}
+
+header h1{
+     background-color: brown
+}
+
+nav {        
+    background-color: aliceblue;
+    border: 1px green solid;
+    padding: 8px;
+    margin: -1px 0px 0px 0px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+nav li {
+    display: inline;
+    padding: 8px;    
 }
