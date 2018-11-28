@@ -74,12 +74,14 @@ section#hawaii-section{
 }
 
 img#theme-hawaii{
-    width:800 px;
-    height:650px;
-    float: left;
+    transform: rotate(0.25turn);
+    width:700px;
+    height:600px;
+    float: right;
 }
 
 img#theme-hawaii2{
+    transform: rotate(0.25turn);
     widows: 500px;
     height: 350px;
 }
@@ -117,8 +119,9 @@ main#theme-washingtonparagraph{
 }
 
 img#theme-washington{
-    width: 800px;
-    height: 650px;
+    transform: rotate(0.25turn);
+    width: 650px;
+    height: 600px;
     float: left; 
 }
 

@@ -1,7 +1,13 @@
-const elfCode = {
-    appendToList: (list, value) => {
-        const li = document.createElement("li");
-        li.appendChild(document.createTextNode(value));
-        list.appendChild(li);
+// const addToList = 
+window.onload = () => {
+    const listButton = document.getElementById('run-for-loop');
+
+    listButton.onclick = () => {
+        const myList = document.getElementById('mylist');
+
+        for (let i = 1; i < 5; i ++) {
+            elfCode.appendToList(myList, i);
+        }
     }
-}
+}                    
+    
